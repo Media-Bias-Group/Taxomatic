@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code, data, and evaluation files used in the thesis **"Comprehensively Understanding Media Bias by Creating an LLM-based Definition Evaluation Framework"**. The project explores the feasibility of using Large Language Models (LLMs) to extract, classify, and evaluate definitions related to media bias from academic literature.
+This repository contains the code, data, and evaluation files used in the paper **"Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias"**. The project explores the feasibility of using Large Language Models (LLMs) to extract, classify, and evaluate definitions related to media bias from academic literature. More information will be added in case of paper acceptance.
 
 ## Project Structure
 
