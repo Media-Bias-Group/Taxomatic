@@ -1,0 +1,2308 @@
+ad hominem bias
+analogical bias
+anaphoric bias
+categorization bias
+concept bias
+contrastive bias
+cumulative bias
+dialectal bias
+ethnic bias
+euphemism bias
+generic bias
+geographical bias
+individual bias
+jargon bias
+judgmental bias
+morphological bias
+nominal bias
+non-verbal bias
+objectification bias
+prospective bias
+referential bias
+slang bias
+socioeconomic bias
+taboo bias
+tokenism bias
+visibility bias
+vocabulary bias
+voice bias
+word choice bias
+relevance bias
+propaganda bias
+psychological bias
+conditional bias
+dimensional bias
+figurative bias
+metaphorical bias
+normative bias
+stylistic bias
+translational bias
+novelty bias
+frequency bias
+linguistic bias
+temporal bias
+textual bias
+persuasive bias
+ethical bias
+lexical bias
+literal bias
+inclusiveness bias
+filtering bias
+generalization bias
+intrinsic bias
+verbal bias
+communicative bias
+dominance bias
+discourse bias
+dispositional bias
+epistemic bias
+syntactic bias
+familiarity bias
+adverbial bias
+exclusion bias
+descriptive bias
+agenda-setting bias
+automation bias
+blind spot
+boundary extension
+distinctiveness bias
+false uniqueness bias
+halo error
+minimal information bias
+objective bias
+observer-expectancy bias
+pattern recognition bias
+processing bias
+regressive bias
+selective exposure
+suggestibility bias
+unit bias
+wishful thinking
+zero-risk bias
+content bias
+reporting bias
+polarization bias
+preference bias
+story bias
+sensationalism bias
+primacy bias
+gatekeeping bias
+bias amplification
+affective bias
+ambiguous bias
+analytical bias
+arbitrary bias
+biased perception
+concealed bias
+deceptive bias
+decisive bias
+deterministic bias
+deviant bias
+dialogical bias
+differential bias
+digital bias
+dominant bias
+environmental bias
+explanatory bias
+expressive bias
+facilitative bias
+fallacious bias
+fear-inducing bias
+forensic bias
+generational bias
+humanistic bias
+imaginary bias
+inherent bias
+insinuative bias
+intuitive bias
+isolating bias
+judicial bias
+manipulative bias
+multifaceted bias
+observational bias
+occasional bias
+oppositional bias
+overreaching bias
+phenomenological bias
+phonetic bias
+popularity bias
+preconceived bias
+preliminary bias
+prepositional bias
+probabilistic bias
+processual bias
+progressive bias
+provocative bias
+quasi-experimental bias
+reactionary bias
+reinforcing bias
+reproductive bias
+residual bias
+satirical bias
+scientific bias
+selective bias
+semantical bias
+sensory bias
+sequential bias
+significant bias
+sociocultural bias
+sound bias
+speculative bias
+subtle bias
+superficial bias
+technological bias
+traditional bias
+transformative bias
+transitional bias
+reflective bias
+attitudinal bias
+distinctive bias
+relative bias
+spatial bias
+professional bias
+motivational bias
+subliminal bias
+deliberate bias
+symbolic bias
+empirical bias
+habitual bias
+theoretical bias
+relational bias
+comparative bias
+methodological bias
+argumentative bias
+rhetorical bias
+Absence Bias
+Access Bias
+Adjustment Bias
+Affirmation Bias
+Anticipation Bias
+Awareness Bias
+Coincidence Bias
+Concentration Bias
+Dimension Bias
+Equivalence Bias
+Expansion Bias
+Magnification Bias
+Manipulation Bias
+Misclassification Bias
+Profiling Bias
+Redundancy Bias
+Scope Bias
+Sensitivity Bias
+Sequence Bias
+Simplification Bias
+Size Bias
+Skepticism Bias
+Space Bias
+Specialization Bias
+Spectrum Bias
+Storytelling Bias
+Subject Bias
+Sufficiency Bias
+Suppression Bias
+Surveillance Bias
+Survival Bias
+Targeting Bias
+Tolerance Bias
+Truncation Bias
+Typological Bias
+Variability Bias
+Version Bias
+Word Bias
+Adaptation Bias
+Continuity Bias
+Symmetry Bias
+Allocation Bias
+Measurement Bias
+Misrepresentation Bias
+academic bias
+echo chamber
+epistemology
+evidentialism
+falsifiability
+idealization
+ideological alignment
+justification
+knowledge bias
+knowledge construction
+narrative construction
+normativity
+objectivity standards
+partisan reporting
+peer review
+perspectivism
+polarization effect
+primary source
+prior knowledge
+procedural knowledge
+propositional knowledge
+public opinion shaping
+scepticism
+self-evidence
+social cognition
+speculation
+subjectivity
+trustworthiness
+uncertainty
+validity
+whistleblowing
+yellow journalism
+discursive bias
+religious bias
+certainty bias
+logical fallacy
+commercial bias
+contextual framing
+data framing
+expert framing
+forecasting bias
+framing hypothesis
+information cascade
+interpretive framing
+moral bias
+overestimation bias
+perseverance effect
+power of suggestion
+probability neglect
+propagandistic framing
+suppression framing
+tangibility bias
+focusing effect
+overconfidence bias
+pessimism bias
+restraint bias
+omission bias
+desirability bias
+impact bias
+outcome bias
+memory bias
+encoding bias
+systematic bias
+objectivity bias
+attention bias
+experimenter bias
+availability bias
+regression bias
+filter bubble
+control bias
+evaluation bias
+Agenda Control
+Audience Manipulation
+Communication Effects
+Consensus Framing
+Critical Media Studies
+Evaluation Framing
+Frame Alignment
+Frame Transformation
+Framing Attributes
+Framing Dynamics
+Framing in Advertising
+Framing Influence
+Framing Strategies
+Framing Theory
+Headline Effects
+Human Interest Framing
+Image Framing
+Implicit Framing
+Inclusion/Exclusion
+Influence Tactics
+Information Framing
+Information Processing
+Metaphorical Framing
+Moral Framing
+Opinion Framing
+Perception Framing
+Policy Framing
+Positioning
+Presentation Effects
+Public Perception
+Social Construction
+Social Framing
+Subjective Interpretation
+Negative Framing
+Positive Framing
+Source Credibility
+Information Bias
+Narrative Bias
+Interpretation Bias
+Framing Analysis
+Opinion Shaping
+Bias Awareness
+Bias Correction
+Complementary Bias
+Cross-Group Friendship
+Diversity and Inclusion
+Dominant Culture
+Equal Opportunity
+Ethical Decision Making
+Favoritism
+Fear of Outgroup
+Inclusive Leadership
+Ingroup/Outgroup
+Institutional Bias
+Intersectional Bias
+Majority Influence
+Moral Exclusion
+Outgroup Derogation
+Power Dynamics
+Privilege
+Sexism
+Stereotype Activation
+Stereotype Confirmation
+Structural Discrimination
+Structural Inequality
+Subgroup
+Subordinate Groups
+Demographic Bias
+Cultural Hegemony
+Ageism
+Status Quo Bias
+Exclusion
+Normative Influence
+Outgroup Homogeneity
+Explicit Bias
+Perception Bias
+Affiliation Bias
+Bias Mitigation
+Performance Bias
+Underrepresentation
+Abusive Language
+Anti-Semitism
+Bias-Motivated Crimes
+Content Policy
+Free Speech
+Hate Detection Algorithms
+Homophobia
+Implicit Stereotypes
+Inclusivity
+Islamophobia
+Misogyny
+Narrative Change
+Online Moderation
+Racial Epithets
+Racism
+Responsible Speech
+Speech Regulation
+Surveillance
+Transphobia
+Bias in AI
+Echo Chambers
+Inclusion
+Systemic Bias
+Unconscious Bias
+Stigmatization
+Discrimination
+Animacy Bias
+Beauty Bias
+Beneffectance Bias
+Diagnostic Bias
+Falsifiability Bias
+Liking Bias
+Optimization Bias
+Overfitting Bias
+Pygmalion Effect
+Retrospective Bias
+Self-Enhancement Bias
+Semantics Bias
+Spotlight Effect
+Uncertainty Avoidance
+Unfalsifiability Bias
+Value Attribution Bias
+In-Group Bias
+Functional Bias
+Proximity Bias
+Accentuation Bias
+Definitional Bias
+Uniqueness Bias
+Self-Attribution Bias
+Social Comparison Bias
+Social Desirability Bias
+Third-Person Effect
+Exaggeration Bias
+Positive Bias
+Sexual Bias
+Data Bias
+Historical Bias
+Diversity Bias
+Similarity Bias
+Negativity Bias
+Distinction Bias
+Irrational Escalation
+Loss Aversion
+Mere Exposure Effect
+Misinformation Effect
+Persuasion Bias
+Projection Bias
+Selective Perception
+Reciprocity Bias
+False Consensus Effect
+Hindsight Bias
+Response Bias
+Interpersonal Bias
+Correspondence Bias
+Homogeneity Bias
+Relationship Bias
+Transfer Bias
+Communication Accommodation
+Decoding
+Expectancy Bias
+Hostility
+Labeling
+Miscommunication
+Misinterpretation
+Misjudgment
+Mislabeling
+Misunderstanding
+Mitigation
+Overestimation
+Persuasion
+Semiotics
+Shift in Reference
+Target Group
+Amplification
+Qualitative Bias
+quantitative bias
+Consensus Bias
+Distortion
+Expression Bias
+Agenda Setting
+Audience Polarization
+Bias by Labeling
+Bias by Placement
+Bias by Story Selection
+Bias in Captions
+Bias in Headlines
+Bias in Photographs
+Bias in Quotes
+Bias Through Statistics
+Biased Assimilation
+Data Journalism
+Deepfakes
+Digital News Ecology
+Distrust in Media
+Diversity in Media
+Dog-Whistle Politics
+Epistemological Bias
+Ethical Journalism
+Global Media Influence
+Hate Speech
+Information Literacy
+Mainstream Media
+Manipulation Tactics
+Mass Media Effects
+Media Content Analysis
+Media Convergence
+Media Critique
+Media Engagement
+Media Hegemony
+Media Ideology
+Media Impact
+Media Influence Strategies
+Media Objectivity
+Media Ownership
+Media Polarization
+Media Portrayals
+Media Power
+Media Propaganda
+Media Representation
+Media Studies
+Media Transparency
+Media Trust
+Media Usage
+Media Violence
+Narrative Analysis
+News Analysis
+News Literacy
+Political Polarization
+Question Framing
+Reality Construction
+Source Reputation
+Text Level Context Bias
+Emotional Bias
+Connotation Bias
+Social Bias
+Media Framing
+Structural Bias
+Opinion Bias
+Conformity Bias
+Bias Detection
+Media Analysis
+Media Effects
+News Bias
+Public Opinion
+Rhetorical Strategies
+Framing Bias
+Selection Bias
+Visual Bias
+Gatekeeping
+False Balance
+Editorial Bias
+Confirmation Bias
+Representation Bias
+Cultural Bias
+Propaganda
+Content Analysis
+Ideological Bias
+Language Bias
+Political Bias
+Media Bias
+Gender Bias
+Disinformation
+Fake News
+Fact-Checking
+Cognitive Bias
+Racial Bias
+Implicit Bias
+Algorithmic Bias
+Censorship
+Semantic Bias
+Framing Effect
+Authority Bias
+Spin Bias
+Publication Bias
+Coverage Bias
+Data Manipulation
+Information Manipulation
+Statement Bias
+accord bias
+advocacy bias
+agreement bias
+alignment viewpoint
+animosity bias
+antagonistic bias
+antipathy bias
+antipathy stance
+belief-driven bias
+bifurcation bias
+binary bias
+campaign bias
+candidate bias
+clash bias
+clientelism bias
+coalition bias
+collusion bias
+commentariat bias
+community-centric bias
+consensus-driven bias
+conservative bias
+consonance bias
+contradictory bias
+contrarian bias
+crossfire bias
+debate-driven bias
+decision-driven bias
+democratic bias
+dichotomous bias
+dispute bias
+dissension bias
+dogmatic tone
+election bias
+factional bias
+faithfulness bias
+fellow bias
+fractious bias
+frictional bias
+hostile bias
+impartiality bias
+inclination bias
+insularity bias
+interparty bias
+intolerance bias
+issue-driven bias
+left-leaning bias
+liberal bias
+lobbyist bias
+minority-centric bias
+nepotism bias
+nonpartisan bias
+out-group bias
+patronage bias
+policy bias
+political agenda bias
+political allegiance bias
+public opinion bias
+punditry bias
+right-leaning bias
+rival bias
+segmented bias
+sensationalist bias
+sidedness bias
+slant bias
+stance bias
+stratified bias
+support bias
+sympathy bias
+unfair bias
+uniformity bias
+unsubstantiated bias
+us vs. them
+voting bias
+whistleblower bias
+approval bias
+biased reporting
+convergence bias
+subjectivity bias
+alliance bias
+attachment bias
+congruence bias
+cooperation bias
+coordination bias
+message bias
+balance bias
+association bias
+collaboration bias
+assertiveness bias
+dogmatic bias
+deliberative bias
+accentuated bias
+bias in terminology
+editorial manipulation
+embellished bias
+exaggerative bias
+fabrication bias
+glossing-over bias
+Inflection Bias
+Inflection Inclination
+Manipulated Form
+Manipulated Phrasing
+Manipulative Language
+Modification Bias
+Opinionation Bias
+Politicization Bias
+Purpose Bias
+Qualifier Biasing
+Rhetoricization Bias
+Selective Wording
+Skewing Bias
+Slanting Bias
+Spinning Bias
+Strategy Bias
+Tailored Expression
+Tailoring Bias
+Twisted Form
+Unbiased Formulation
+Unbiasedness
+Verbal Manipulation
+Selectivity Bias
+articulation bias
+amplification bias
+falsification bias
+Accessibility Bias
+Acquaintance Bias
+Affectional Bias
+Alignment Bias
+Amity Bias
+Area Bias
+Assimilation Bias
+Attraction Bias
+Camaraderie Bias
+Centrality Bias
+Circularity Bias
+Closeness Bias
+Cluster Bias
+Coalescence Bias
+Comfort Bias
+Common Interest Bias
+Communal Bias
+Comparability Bias
+Compatibility Bias
+Connection Bias
+Consanguinity Bias
+Continuance Bias
+Correlation Bias
+Coupling Bias
+Depth Bias
+Distance Bias
+Dynamic Bias
+Empathy Bias
+Fellowship Bias
+Geographic Proximity Bias
+Groupthink Bias
+Interdependence Bias
+Intermingling Bias
+Intragroup Bias
+Magnetism Bias
+Merger Bias
+Network Bias
+Overreliance Bias
+Overvaluing Bias
+Partnership Bias
+Personal Affinity Bias
+Personal Bias
+Proximity Preference Bias
+Recency Proximity Bias
+Relation Bias
+Shared Space Bias
+Social Bond Bias
+Social Cohesion Bias
+Social Distance Bias
+Spatial Proximity Bias
+Topical Proximity Bias
+Account Bias
+Amplification Effect
+Analysis Bias
+Author Bias
+Bias Propagation
+Bias Reduction
+Biased Presentation
+Causality Bias
+Characterization Bias
+Circular Reporting
+Classification Bias
+Coding Bias
+Conclusion Bias
+Contamination Bias
+Cueing Bias
+Depiction Bias
+Detail Bias
+Directionality Bias
+Disclosure Bias
+Enumeration Bias
+Evidence Bias
+Exemplification Bias
+Fairness Bias
+Ideation Bias
+Impression Bias
+Insight Bias
+Intention Bias
+Neutrality Bias
+Oversight Bias
+Paraphrasing Bias
+Position Bias
+Question Bias
+Recognition Bias
+Reference Bias
+Reporting Style Bias
+Review Bias
+Scrutiny Bias
+Sentence Bias
+Substantiation Bias
+Truth Bias
+Validity Bias
+Witness Bias
+Aggregation Bias
+Assertion Bias
+Boundary Bias
+Delimitation Bias
+Emphasis Bias
+Overgeneralization Bias
+Prioritization Bias
+Quality Bias
+Researcher Bias
+Sample Bias
+Scale Bias
+Significance Bias
+Tendency Bias
+Transparency Bias
+Underestimation Bias
+Volume Bias
+Context Bias
+Focus Bias
+Channel Bias
+Detection Bias
+Observation Bias
+Coherence Bias
+Cohesion Bias
+Dependency Bias
+Influence Bias
+Ascertainment Bias
+Assessment Bias
+Dissemination Bias
+Case Selection Bias
+Choice Bias
+Compliance Bias
+Discontinuation Bias
+Dropout Bias
+Duration Bias
+Eligibility Bias
+Endogeneity Bias
+External Bias
+Externalization Bias
+Generalizability Bias
+Grouping Bias
+Heterogeneity Bias
+Historic Bias
+Indication Bias
+Initial Selection Bias
+Interaction Selection Bias
+Interest Bias
+Interviewer Bias
+Intraobserver Bias
+Investigator Bias
+Length Bias
+Measure Bias
+Misclassification
+Non-Coverage Bias
+Non-Experimental Selection Bias
+Norming Bias
+Occupational Bias
+Operational Bias
+Outlier Bias
+Period Bias
+Personalization Bias
+Phase Bias
+Predisposition Bias
+Preponderance Bias
+Proactive Bias
+Problem Selection Bias
+Projective Bias
+Promotion Bias
+Proprietary Bias
+Publicity Bias
+Qualitative Selection Bias
+Randomization Bias
+Reaction Bias
+Recall Bias
+Record Bias
+Recruitment Bias
+Reduction Bias
+Referral Bias
+Refusal Bias
+Regulatory Bias
+Rejection Bias
+Representative Bias
+Sampling Frame Bias
+Scale-up Bias
+Selective Accessibility Bias
+Selective Detection Bias
+Self-Reporting Bias
+Self-Selection Bias
+Subject Selection Bias
+Target Population Bias
+Threshold
+Withdrawal Bias
+agenda-driven selectivity
+bias reinforcement
+content filtering
+diverse exposure
+gatekeeping behavior
+gatekeeping preference
+information filtering
+information selection
+judgmental selectivity
+media curation
+media filtering
+media gatekeeping
+novelty preference
+opinion curation
+opinion filtering
+overselectivity
+personalized content
+repetition bias
+semantic filtering
+sensationalism preference
+serendipity bias
+social media filter
+social media selectivity
+stereotype reinforcement
+strategic selectivity
+subscription bias
+symbolic curation
+tailored exposure
+targeted content
+targeted exposure
+tribal media
+user customization
+user-driven bias
+value-based filtering
+viral bias
+prominence bias
+engagement bias
+trend bias
+decisional bias
+Annotation
+Argument Mining
+Behavioral Analytics
+Biased Language Detection
+Comparative Analysis
+Computational Linguistics
+Linguistic Analysis
+Natural Language Processing
+Negative Sentiment
+Objectivity Detection
+Opinion Classification
+Paralinguistic Analysis
+Part-of-Speech Tagging
+Polarity Classification
+Polarity Detection
+Positive Sentiment
+Public Opinion Mining
+Sarcasm Detection
+Semantic Analysis
+Social Influence Analysis
+Social Network Analysis
+Subjectivity Detection
+Text Analytics
+Text Classification
+artful bias
+artful presentation
+calculation bias
+coloration manipulation
+concealed agenda
+crafted bias
+curated narrative
+deceptive presentation
+deflection bias
+deliberate biasing
+editorial slant
+false narrative
+flawed portrayal
+graphic distortion
+ideological manipulation
+image crafting
+image manipulation
+impression manipulation
+language manipulation
+narrative distortion
+opinion distortion
+perspective bias
+polishing bias
+propaganda spin
+purposeful bias
+quotation manipulation
+selective emphasis
+sensationalistic bias
+sensitive editing
+shaping bias
+slanted biasing
+spun bias
+strategic bias
+tailored bias
+tonal biasing
+twisted bias
+unbalanced bias
+undisclosed bias
+value-driven bias
+coloration bias
+qualifier bias
+allegation bias
+authoritarian bias
+autocratic bias
+Averment bias
+Bias in declaration
+Bias in expression
+Bias in utterance
+Categorical bias
+Command bias
+Confidence bias
+Conjecture bias
+Conviction bias
+Credibility bias
+Declaration bias
+Definite bias
+Demonstrative bias
+Dictatorial bias
+Directive bias
+Dogmatism bias
+Emphatic bias
+Firmness bias
+Forcefulness bias
+Grandiloquence bias
+Imperative bias
+Incontrovertibility bias
+Indicative bias
+Insistence bias
+Intensity bias
+Intransigence bias
+Irrevocability bias
+Literalism bias
+Lucidity Bias
+Manifestation Bias
+Persuasiveness Bias
+Positivism Bias
+Precision Bias
+Proclamation Bias
+Promptitude Bias
+Pronouncement Bias
+Resoluteness Bias
+Resolve Bias
+Rigidity Bias
+Seriousness Bias
+Solemnity Bias
+Soundness Bias
+sureness bias
+tenacity bias
+unwaveringness bias
+veracity bias
+vigor bias
+zeal bias
+Specificity Bias
+assumption bias
+Clarity bias
+Reliability Bias
+anecdotal bias
+balance
+canonical bias
+collaborative bias
+colloquial bias
+connectivity bias
+construct bias
+conversational bias
+deconstruction bias
+determination bias
+dialect bias
+dialogic bias
+diction bias
+differentiation bias
+emotive language
+episodic bias
+eventual bias
+expert bias
+feature bias
+framing
+grammar bias
+hermeneutical bias
+hidden bias
+ideographic bias
+imagery bias
+indirect bias
+intentional bias
+intercultural bias
+interpretative bias
+investigative bias
+justification bias
+lexical semantic bias
+logic bias
+modality bias
+neutrality
+register bias
+sentiment bias
+sociolinguistic bias
+stereotype
+stipulative bias
+suggestiveness
+superlative bias
+surface bias
+Usage Bias
+Value Bias
+domain bias
+Thematic Bias
+abstraction bias
+accent bias
+adjective bias
+anaphora bias
+annotation bias
+aphorism bias
+appositional bias
+argument bias
+audience bias
+citation bias
+comprehension bias
+inference bias
+description bias
+ecological bias
+quotation bias
+commentary bias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
