@@ -1,37 +1,104 @@
-# Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias
+# TaxoMatic: Leveraging Large Language Models for Automated Definition Extraction
 
-## Overview
+This repository contains the code, data, and evaluation files used in the paper **"Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias"**. The project explores using Large Language Models (LLMs) to extract, classify, and evaluate definitions related to media bias from academic literature. 
 
-This repository contains the code, data, and evaluation files used in the paper **"Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias"**. The project explores the feasibility of using Large Language Models (LLMs) to extract, classify, and evaluate definitions related to media bias from academic literature. More information will be added in case of paper acceptance.
+Since no suitable datasets for testing definition extraction were available, we created one specifically for the media bias domain, where definitions are diverse and often unclear.
+
+> **Note**: This repository was created by the authors of the TaxoMatic paper as part of ongoing academic research. Updates will be added upon paper acceptance.
+
+---
 
 ## Project Structure
 
-The repository is organized into two main sections: **Code** and **Data**.
-
 ### 1. Code
 
-The codebase consists of several scripts and notebooks designed to automate the following steps of the research process:
+The codebase includes scripts and notebooks for automating the research process:
 
-- **SES Scraper**: Scripts for searching Semantic Scholar database and retrieving information about relevant literature on media bias.
-- **PDF Scraping**: Python scripts for extracting full-text content from PDF documents. Later files are converted them into a machine-readable format using tools like GROBID.
-- **Grobid to df**: Formatting XLSX files after the previous step and transforms extracted content from GROBID into body text that is suitable for further processing.
-- **Relevance Classification**: Classification of articles using 5 different LLMs (GPT, Claude, etc.) and 8 distinct prompting strategies to determine the relevance of articles to media bias definitions.
-- **Definition Extraction**: Scripts utilizing **Claude** for the extraction of media bias definitions from relevant articles.
-- **Performance Evaluation**: Code for evaluating the performance of both classification and definition extraction processes, including manual and automated evaluations.
+- **SES Scraper**: Searches the Semantic Scholar database for literature on media bias.
+- **PDF Scraping**: Extracts full-text content from PDFs and converts them to machine-readable formats using GROBID.
+- **GROBID to df**: Formats and transforms extracted content for further processing.
+- **Relevance Classification**: Utilizes five LLMs (e.g., GPT, Claude) and eight prompting strategies to classify article relevance to media bias definitions.
+- **Definition Extraction**: Prompts Claude 3 with five strategies to extract media bias definitions from relevant articles.
+- **Performance Evaluation**: Evaluates classification and definition extraction processes, including manual and automated methods.
+
+---
 
 ### 2. Data
 
-This folder includes the data generated and used during the project, broken down into the following categories:
+The `Data` folder includes:
 
-- **Manually Evaluated Articles**: A subset of academic articles that were manually assessed for relevance to media bias definitions, serving as ground truth data for evaluation.
-- **LLM-based Relevance Classifications**: Outputs from the relevance classification step (5 files, names {model}_relevance), where articles were classified using different LLM models and prompting techniques.
-- **Extracted Definitions**: Definitions of media bias extracted both manually and via LLMs, used for comparison and evaluation.
-- **Keywords**: Extensive list of keywords used for scholarly database search.
+- **Manually Evaluated Articles**: Ground truth data of articles assessed for relevance.
+- **LLM-based Relevance Classifications**: Outputs from classification by different LLMs.
+- **Extracted Definitions**: Manually and automatically extracted media bias definitions.
+- **Keywords**: A comprehensive list of keywords for scholarly searches.
+
+---
 
 ### 3. Performance Evaluation Files
 
-This folder contains the evaluation scripts and results for both stages of the project:
+The `Evaluation` folder contains:
 
-1. **Relevance Evaluation**: Performance metrics (e.g., accuracy, F1 score) for the LLM-based relevance classification of scholarly articles.
-2. **Definition Evaluation**: Evaluation of the extracted definitions using cosine similarity, including error analysis and performance comparisons between LLM-based and manual definitions.
+- **Relevance Evaluation**: Performance metrics (e.g., accuracy, F1 score) for article classification.
+- **Definition Evaluation**: Cosine similarity analysis, error analysis, and comparisons between manual and LLM-based extractions.
 
+---
+
+## Data Composition
+
+The dataset includes:
+
+- 2,398 articles annotated for relevance.
+- 123 definitions manually extracted from 113 relevant articles.
+- A filtered sample of 75,151 open-access academic papers based on relevance and citation count.
+
+### Key Features:
+
+- Articles filtered by citation count (≥100).
+- Minimal noise due to extraction errors during PDF processing.
+- No offensive content; all articles are publicly available.
+
+---
+
+## Collection Process
+
+1. **Data Sources**: Keyword-based searches on Semantic Scholar.
+2. **Extraction**: Automated scraping scripts and GROBID for PDF-to-XML conversion.
+3. **Annotation**: Manual relevance checks by six researchers with expertise in media bias.
+
+---
+
+## Preprocessing and Labeling
+
+- PDFs converted to XML using GROBID.
+- Manual annotation for relevance and definition extraction.
+- Raw PDFs and processed XML files are stored for reproducibility.
+- All preprocessing scripts are included in this repository.
+
+---
+
+## Uses
+
+This dataset and code were used to evaluate the TaxoMatic framework for:
+
+1. Classifying relevant articles.
+2. Extracting definitions.
+
+In the future, TaxoMatic could support research on concept extraction, semantic analysis, and taxonomy building in various domains.
+
+---
+
+## Distribution
+
+- On acceptance, this repository will be made publicly available under an open-source license.
+- Contains only open-access and open-source materials.
+- No further regulatory restrictions.
+
+---
+
+## Maintenance
+
+The TaxoMatic research team will maintain this repository. Updates and contact details will be shared upon paper acceptance. Contributions are welcome!
+
+---
+
+We hope this repository serves as a valuable resource for researchers exploring automated definition extraction and media bias!
