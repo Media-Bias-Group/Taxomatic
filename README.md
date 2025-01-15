@@ -1,4 +1,4 @@
-# Media Bias Definitions Extraction Using LLMs
+# Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias
 
 ## Overview
 
