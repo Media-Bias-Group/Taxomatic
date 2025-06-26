@@ -22,7 +22,7 @@ The codebase includes scripts and notebooks for automating the research process:
 
 ### 2. Data
 
-The `Data` folder includes:
+The csv and zip files contain data for:
 
 - **Manually Evaluated Articles**: Ground truth data of articles assessed for relevance.
 - **LLM-based Relevance Classifications**: Outputs from classification by different LLMs.
@@ -33,7 +33,7 @@ The `Data` folder includes:
 
 ### 3. Performance Evaluation Files
 
-The `Evaluation` folder contains:
+The evaluation files contain data for:
 
 - **Relevance Evaluation**: Performance metrics (e.g., accuracy, F1 score) for article classification.
 - **Definition Evaluation**: Cosine similarity analysis, error analysis, and comparisons between manual and LLM-based extractions.
