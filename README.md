@@ -94,7 +94,7 @@ In the future, TaxoMatic could support research on concept extraction, semantic 
 
 ## Maintenance
 
-The TaxoMatic research team will maintain this repository. Updates and contact details will be shared upon paper acceptance. Contributions are welcome!
+We are working on an updated version of the project. For any questions, feel free to reach out to us over www.media-bias-research.org.
 
 ---
 
