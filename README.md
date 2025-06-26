@@ -3,9 +3,6 @@
 This repository contains the code, data, and evaluation files used in the paper **"Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias"**. The project explores using Large Language Models (LLMs) to extract, classify, and evaluate definitions related to media bias from academic literature. 
 
 Since no suitable datasets for testing definition extraction were available, we created one specifically for the media bias domain, where definitions are diverse and often unclear.
-
-> **Note**: This repository was created by the authors of the TaxoMatic paper as part of ongoing academic research. Updates will be added upon paper acceptance.
-
 ---
 
 ## Project Structure
